@@ -22,7 +22,7 @@ export default {
 
 <style lang="stylus" scoped>
     @import "..\..\..\..\src\assets\styles\varibles.styl"
-    /*@import "~@\assets\styles\varibles.styl"*/
+    /*@import "~styles\varibles.styl"*/
     /*1rem = html font-size = 50px*/
     .header
         display : flex
